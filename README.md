@@ -48,4 +48,5 @@ python clean_csv.py
 
 Which generates cleaned output
 
+I manually searched the ouput for correct format and I also left invalid rows as blank. 
 
