@@ -1,4 +1,4 @@
-# Data Engineer – Skill Assessment
+# Data Platform Engineer – Skill Assessment
 
 ## Overview
 This project demonstrates how I clean and normalize a CSV file containing 5,000 unclean records.
@@ -49,4 +49,5 @@ python clean_csv.py
 Which generates cleaned output
 
 I manually searched the ouput for correct format and I also left invalid rows as blank. 
+
 
